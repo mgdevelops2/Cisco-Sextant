@@ -2,7 +2,7 @@
 
 ## Description
 
-This ...
+This is a network dashboard called Sextant, a locally hosted single-page application meant to assist Cisco field technicians in their day-to-day.
 
 ## Table of Contents
 
