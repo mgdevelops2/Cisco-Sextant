@@ -9,38 +9,24 @@ function Container() {
         <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-indigo-500/10 hover:shadow-indigo-500/10"
-            href="/services/digital-campaigns"
+            href="#"
           >
-            <h2 class="mt-4 text-xl font-bold text-white">Digital campaigns</h2>
-            <p class="mt-1 text-sm text-gray-300">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-              possimus adipisci distinctio alias voluptatum blanditiis
-              laudantium.
-            </p>
+            <h2 class="mt-4 text-xl font-bold text-white">User IP:</h2>
+            <p class="mt-1 text-sm text-gray-300">Latency:</p>
           </a>
-
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-indigo-500/10 hover:shadow-indigo-500/10"
-            href="/services/digital-campaigns"
+            href="#"
           >
-            <h2 class="mt-4 text-xl font-bold text-white">Digital campaigns</h2>
-            <p class="mt-1 text-sm text-gray-300">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-              possimus adipisci distinctio alias voluptatum blanditiis
-              laudantium.
-            </p>
-          </a>
-
+            <h2 class="mt-4 text-xl font-bold text-white">User IP:</h2>
+            <p class="mt-1 text-sm text-gray-300">Latency:</p>
+          </a>{" "}
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-indigo-500/10 hover:shadow-indigo-500/10"
-            href="/services/digital-campaigns"
+            href="#"
           >
-            <h2 class="mt-4 text-xl font-bold text-white">Digital campaigns</h2>
-            <p class="mt-1 text-sm text-gray-300">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-              possimus adipisci distinctio alias voluptatum blanditiis
-              laudantium.
-            </p>
+            <h2 class="mt-4 text-xl font-bold text-white">User IP:</h2>
+            <p class="mt-1 text-sm text-gray-300">Latency:</p>
           </a>
         </div>
 
