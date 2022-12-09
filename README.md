@@ -18,7 +18,7 @@ This is a network dashboard called Sextant, a locally hosted single-page applica
 
 The technology used in this project are:
 
-HTML | CSS | JavaScript | React | TypeScript | Python | Nodejs
+HTML | CSS | JavaScript | React | Tailwind | NodeJs
 
 ## Installation
 
