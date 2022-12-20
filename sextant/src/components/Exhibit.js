@@ -1,5 +1,6 @@
 import React from "react";
 import Ipfetch from "./Ipfetch";
+import Latency from "./Latency";
 
 function Exhibit(props) {
   return (
@@ -10,6 +11,7 @@ function Exhibit(props) {
           <div class="mt-8 grid grid-cols-1 gap-8 ">
             <Ipfetch ipVersion="ipv4" />
             <Ipfetch />
+            <Latency />
           </div>
         </div>
       </div>
