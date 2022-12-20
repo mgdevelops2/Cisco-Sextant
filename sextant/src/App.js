@@ -1,11 +1,11 @@
 import Banner from "./components/Banner";
-import Container from "./components/Container";
+import Exhibit from "./components/Exhibit";
 
 function App() {
   return (
     <div className="App">
       <Banner />
-      <Container />
+      <Exhibit />
     </div>
   );
 }
