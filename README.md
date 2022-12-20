@@ -42,4 +42,5 @@ If you would like to see more of my work, checkout my GitHub repositories under 
 <br>
 If you have any additional questions, please contact me directly at: mgdevelops2@gmail.com
 
-## Screenshots
+## Screenshots<img width="1023" alt="Screenshot 2022-12-20 at 6 52 15 PM" src="https://user-images.githubusercontent.com/98365942/208788162-d5168784-a1a9-4dd6-87e5-0781f7a6b11f.png">
+
